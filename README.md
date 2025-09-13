@@ -33,7 +33,7 @@ The main goal is to answer questions like:
 - More wins are recorded **while chasing** → due to dew, batting-friendly pitches, and deeper batting lineups.  
 
 ### 👨‍🏏 Batting  
-- **Top run scorers**: Virat Kohli, Suresh Raina, Rohit Sharma, David Warner, Shikhar Dhawan.  
+- **Top run scorers**: Virat Kohli (Best), Suresh Raina, Rohit Sharma, David Warner, Shikhar Dhawan (Consistent players).  
 - **Most sixes**: Kohli leads, followed by Rohit and Raina → highlights their aggressive batting styles.  
 - **Highest partnerships**: Kohli–Gayle & Kohli–ABD → proves strong partnerships win matches.  
 
@@ -44,7 +44,7 @@ The main goal is to answer questions like:
 
 ### 🧤 Fielding  
 - Best fielders: Dhawan, Raina, Gambhir, Kohli → consistent players who played most matches and took chances.  
-- Visualizations: Bubble chart (impact by dismissals), Pie chart (top fielders’ contribution).  
+- Visualizations: Pie chart (top fielders’ contribution).  
 
 ### 🏟️ Stadium Insights  
 - **Stadiums with most runs & sixes** identified.  
@@ -63,9 +63,3 @@ The main goal is to answer questions like:
 - Stacked bar plots  
 
 ---
-
-## 🚀 How to Run the Project  
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/ipl-analysis.git
-   cd ipl-analysis
